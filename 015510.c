@@ -36,4 +36,6 @@ system(buf);
 
 	}
  chdir("/data/data/com.termux/files/home");
+	
+}
  
